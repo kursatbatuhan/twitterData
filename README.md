@@ -21,6 +21,6 @@ It automatically creates the database with python codes and adds the data into i
 You only need to change your database connection information in the codes
 
 
-The tweet data added for the experiment is available in the attached image. Keywords used are deprem,house,home,engineering
+The tweet data added for the experiment is available in the attached image. Keywords used are deprem,house,home,engineering,python
 
 ![postgrestweet](https://user-images.githubusercontent.com/75034756/195929296-45198a88-38ba-4e0c-b64f-d76a8252a608.PNG)
